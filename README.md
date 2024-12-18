@@ -12,7 +12,7 @@
 | `created_at`    | `DateTimeField` | Auto-generated timestamp |
 | `updated_at`    | `DateTimeField` | Auto-updated timestamp   |
 
-## Views
+- ## Views
 
 | **View Name**       | **Type**       | **URL Pattern**       | **Template**                 | **Description**                       |
 |----------------------|----------------|-----------------------|------------------------------|---------------------------------------|
